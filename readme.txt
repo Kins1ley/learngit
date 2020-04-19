@@ -6,6 +6,9 @@ Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 test.
 <<<<<<< HEAD
+<<<<<<< HEAD
 test2.
+=======
+>>>>>>> 41104df... fix bug 101
 =======
 >>>>>>> 41104df... fix bug 101
